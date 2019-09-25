@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://github.com/djirdehh/react-living-app/blob/master/src/entrypage.png" width="450"/>
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/entrypage.png" width="450"/>
 
-<img src="https://github.com/djirdehh/react-living-app/blob/master/src/paris.png" width="450"/>
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/paris.png" width="450"/>
 
 
 <p>✨ <strong>MoveAway</strong> is a react app that allows users to compare and analyze the cost of living between cities around   the world. ✨</p>
@@ -26,7 +26,7 @@
 
 video : https://www.youtube.com/watch?v=os35pqLzVh0
 
-<img src="https://github.com/djirdehh/react-living-app/blob/master/src/lastpage.png" width="500"/>
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/lastpage.png" width="500"/>
 
 ## Build
 
