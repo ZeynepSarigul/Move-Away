@@ -9,6 +9,8 @@
 
 <p>✨ <strong>MoveAway</strong> is a react app that allows users to compare and analyze the cost of living between cities around   the world. ✨</p>
 
+Technologies Used: Javascript, React, Bootstrap
+
 
 
 
