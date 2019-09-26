@@ -1,10 +1,10 @@
 <div align="center">
   <p> 
-<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/entrypage.png" width="500" />
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/entrypage.png" width="600" height= "400" />
   </p>
   <br> </br>
 <p>
-<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/paris.png" width="500" />
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/paris.png" width="600" />
   </p>
 
 <p>✨ <strong>MoveAway</strong> is a react app that allows users to compare and analyze the cost of living between cities around   the world. ✨</p>
