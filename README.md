@@ -1,6 +1,6 @@
 <div align="center">
   <p> 
-<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/entrypage.png" width="600" height= "400" />
+<img src="https://github.com/ZeynepSarigul/Move-Away/blob/master/src/entrypage.png" width="600" height= "350" />
   </p>
   <br> </br>
 <p>
