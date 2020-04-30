@@ -7,7 +7,7 @@
     "sw-precache": "^4.3.0"
   },
   "dependencies": {
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "react": "^15.6.2",
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.1",
